@@ -10,6 +10,6 @@ there are 4 classes :
 4. Messed up angle
 
 
-Solarized dark             |  Solarized Ocean
+Input             |  Output
 :-------------------------:|:-------------------------:
 ![](test.jpg)  |  ![](results.jpg)
