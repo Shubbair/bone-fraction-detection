@@ -9,7 +9,7 @@ there are 4 classes :
 3. Line 
 4. Messed up angle
 
-        Input              |        Ouput 
-:-------------------------:|:-------------------------:
-    ![](test.jpg)          |  ![](results.jpg)        |
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](test.jpg)  |  ![](results.jpg)
