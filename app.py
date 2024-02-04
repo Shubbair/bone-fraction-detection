@@ -23,7 +23,6 @@ def main():
     if uploaded_file is not None:
         # Display the uploaded image
         image = Image.open(uploaded_file)
-        # st.image(image, caption="Uploaded Image", use_column_width=True)
 
         # Perform prediction
         prediction_result = predict_image(np.array(image))
