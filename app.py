@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import streamlit as st
 import numpy as np
 
-
 # # Load a pretrained YOLOv8n model
 model = YOLO('model/bone_fraction_model.pt')
 
